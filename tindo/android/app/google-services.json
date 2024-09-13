@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "1034848205405",
+    "project_id": "tengo-clone",
+    "storage_bucket": "tengo-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034848205405:android:2de4139c287bb3bbe4ebb4",
+        "android_client_info": {
+          "package_name": "com.tengo.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034848205405-kq09nvg70brc04536veapjijoud2848q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tengo.live",
+            "certificate_hash": "97c198100bb27e82a1c25c009772058043f339f2"
+          }
+        },
+        {
+          "client_id": "1034848205405-d1df3q2husns4jr46vtga9kbfv12vk8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn_aIboLw-zCt7r6nV4nU0HdGLQo5z0MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034848205405-d1df3q2husns4jr46vtga9kbfv12vk8q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034848205405-8cvft5o720ueg1dt9dtv17regppfmedp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rayzi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034848205405:android:d79edcf4ead2a2e5e4ebb4",
+        "android_client_info": {
+          "package_name": "com.tengo.xitijapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034848205405-1mf1ei17tlmlpb88mdgef0a6rr3ljhsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tengo.xitijapp",
+            "certificate_hash": "a7207b6634e54e897846e1d705f530b7100c2a42"
+          }
+        },
+        {
+          "client_id": "1034848205405-9n4ui0aobpaf3oars3df7jeks5daee4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tengo.xitijapp",
+            "certificate_hash": "97c198100bb27e82a1c25c009772058043f339f2"
+          }
+        },
+        {
+          "client_id": "1034848205405-e2tb1cn8c2ivb2k42ds7uq4bst700612.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tengo.xitijapp",
+            "certificate_hash": "3b790de861ad4d9124fdc4e8afca995d3357f738"
+          }
+        },
+        {
+          "client_id": "1034848205405-ruoekcpqiuh6iqln5nq6shsb1e7dvo0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tengo.xitijapp",
+            "certificate_hash": "60d5d60d44bebd396b095c23310d6e155b5eb17a"
+          }
+        },
+        {
+          "client_id": "1034848205405-d1df3q2husns4jr46vtga9kbfv12vk8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn_aIboLw-zCt7r6nV4nU0HdGLQo5z0MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034848205405-d1df3q2husns4jr46vtga9kbfv12vk8q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034848205405-8cvft5o720ueg1dt9dtv17regppfmedp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rayzi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
